@@ -1,3 +1,12 @@
+#@title Utils Code
+%cd /content/ComfyUI
+
+import os, random, time
+
+import torch
+import numpy as np
+from PIL import Image
+import re, uuid
 from nodes import NODE_CLASS_MAPPINGS
 
 UNETLoader = NODE_CLASS_MAPPINGS["UNETLoader"]()
@@ -52,10 +61,6 @@ def generate(input):
     return save_path,seed
     
 import gradio as gr
-from PIL import Image
-
-
-
 def generate_ui(
     positive_prompt,
     negative_prompt,
