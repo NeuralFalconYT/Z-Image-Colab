@@ -6,6 +6,8 @@
 ![app](https://github.com/user-attachments/assets/b223f8a4-d09e-4542-888d-0a4bca24f934)
 #### Z-Image-Turbo Image Inpainting:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Z-Image-Colab/blob/main/Z_Image_Turbo_Image_Inpainting.ipynb)
+![image edit](https://github.com/user-attachments/assets/f7d3e91e-38c0-4515-8126-f989b785a34b)
+
 
 <table>
 <tr>
@@ -28,6 +30,15 @@
 <td><img src="https://github.com/user-attachments/assets/03d61af3-d7b5-4c79-b8ff-d53715f15623" width="100%"></td>
 </tr>
 </table>
+
+
+<table>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/b73996ec-1ff9-4a1e-b8ec-b7feee58dd23" width="100%"></td>
+<td><img src="https://github.com/user-attachments/assets/e1389d09-5ca2-47d0-92aa-b0233f878466" width="100%"></td>
+</tr>
+</table>
+
 
 
 ## Credit:
