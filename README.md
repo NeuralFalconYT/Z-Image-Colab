@@ -34,10 +34,18 @@
 
 <table>
 <tr>
-<td><img src="https://github.com/user-attachments/assets/b73996ec-1ff9-4a1e-b8ec-b7feee58dd23" width="100%"></td>
-<td><img src="https://github.com/user-attachments/assets/e1389d09-5ca2-47d0-92aa-b0233f878466" width="100%"></td>
+  <td><b>Prompt:</b> a cat wearing a red Santa Claus hat</td>
+  <td><img src="https://github.com/user-attachments/assets/b73996ec-1ff9-4a1e-b8ec-b7feee58dd23" width="100%"></td>
+  <td><img src="https://github.com/user-attachments/assets/e1389d09-5ca2-47d0-92aa-b0233f878466" width="100%"></td>
+</tr>
+
+<tr>
+  <td><b>Prompt:</b> An elephant standing far away</td>
+  <td><img src="https://github.com/user-attachments/assets/b566b455-abba-479f-bf60-37c3b0e7b945" width="100%"></td>
+  <td><img src="https://github.com/user-attachments/assets/bf327807-e2a2-424b-8470-89d94f83efa0" width="100%"></td>
 </tr>
 </table>
+
 
 
 
