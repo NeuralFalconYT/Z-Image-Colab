@@ -331,7 +331,7 @@ with gr.Blocks(theme=gr.themes.Soft(), css=custom_css) as demo:
 
         with gr.Column(scale=1):
             output_image = gr.Image(label="Output Image", height=500, type="pil")
-            with gr.Accordion("Nerd Info", open=True): 
+            with gr.Accordion("Nerd Info", open=False): 
                 file_download = gr.File(label="Download Generated Image")
                 used_seed = gr.Textbox(label="Seed Used", interactive=False)
                 gen_duration = gr.Textbox(label="Generation Time", interactive=False)
